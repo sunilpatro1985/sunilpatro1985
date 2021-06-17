@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+**My work ...**  
+`Product`, `web`, `mobile`, `Team manageent` & `QA`
+
+**My technical interests ...**  
+`Software tools & techniques`, `open source libraries` and `programming language`
+
+- Find my published tutorials on ... [qavalidation.com](https://qavalidation.com) & [youtube.com/qavbox](https://youtube.com/qavbox)
+- Find my projects on ... [github.com/sunilpatro1985](https://github.com/sunilpatro1985) | [github.com/qavbox](https://github.com/qavbox)
+- Reach me ... 
+  -  [facebook.com](https://www.facebook.com/sunilpatro1985) | [facebook.com/qavalidation](https://www.facebook.com/groups/qavalidation)
+  -  [twitter.com](https://twitter.com/sunilpatro1985) | [twitter.com/qavalidation](https://twitter.com/qavalidation)
+- Personal interest - Learn anything that comes on my way! 
