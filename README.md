@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 **My technical interests ...**  
 `Software tools & techniques`, `open source libraries` and `programming language`
 
+**My projects about ...**  
+`Selenium Java | Python` `Cypress TypeScript` `Appium Java` `Jenkins` `ADO` `Android` `IOS`
+
 - Find my published tutorials on ... [qavalidation.com](https://qavalidation.com) & [youtube.com/qavbox](https://youtube.com/qavbox)
 - Find my projects on ... [github.com/sunilpatro1985](https://github.com/sunilpatro1985) | [github.com/qavbox](https://github.com/qavbox)
 - Reach me ... 
